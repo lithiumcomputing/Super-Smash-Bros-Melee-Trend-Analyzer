@@ -12,3 +12,8 @@ collect data and represent the state of Melee's competitive scene.
 
 NOTE: This program MIGHT not work IF SSBWiki Admins decide to change
 the formatting of their site, or if wiki editors mess up the tables!
+
+Files:
+    * main.py - Main source code.
+    * my_graph.jpeg - Graph of # of entrants vs Tournament Number
+    * tourney.html - Output of main source code. MIGHT be different if the program is ran again in the future.
